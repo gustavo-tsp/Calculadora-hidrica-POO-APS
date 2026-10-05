@@ -55,10 +55,3 @@ Aplicação desktop desenvolvida em \*\*Java 17\*\* e \*\*JavaFX\*\* com suporte
 \* Java Development Kit (JDK) 17 ou superior
 
 \* Apache Maven
-
-
-
-\### Passos
-
-1\. Clone o repositório:
-
